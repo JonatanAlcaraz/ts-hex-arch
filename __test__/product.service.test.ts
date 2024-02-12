@@ -27,7 +27,7 @@ describe('ProductService', () => {
     const product: Product = new Product("test", 100);
     const addedProduct = await productService.addProduct(product.name, product.price);
 
-    expect(addedProduct.name).toBe(product.productId);
+    expect(addedProduct.name).toBe(product.name);
     expect(addedProduct.price).toBe(product.price);
   })
 })
