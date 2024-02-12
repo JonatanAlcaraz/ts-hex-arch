@@ -1,6 +1,6 @@
 # ts-hex-arch
 
-**Make sure** you have installed [Node](https://nodejs.org/es),  [ts-node](https://www.npmjs.com/package/ts-node), [Typescript](https://www.npmjs.com/package/typescript), [Docker](https://docs.docker.com/get-docker/), and [Docker Compose](https://docs.docker.com/compose/install/) globally.
+**Make sure** you have installed [Node](https://nodejs.org),  [ts-node](https://www.npmjs.com/package/ts-node), [Typescript](https://www.npmjs.com/package/typescript), [Docker](https://docs.docker.com/get-docker/), and [Docker Compose](https://docs.docker.com/compose/install/) globally.
 
  
 **Create env vars**
